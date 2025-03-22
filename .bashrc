@@ -125,7 +125,6 @@ fi
 
 
 export PATH=/home/riccardo/edirect:${PATH}
-export NCBI_API_KEY=522f165b0c73ac21fc806599aa37c5001508
 export PYTHONPATH="$PYTHONPATH:/usr/bin/python3"
 
 . "$HOME/.cargo/env"
